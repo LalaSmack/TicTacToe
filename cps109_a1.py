@@ -1,6 +1,3 @@
-"""
-
-"""
 import random,csv,time
 
 def display_grid(grid):
