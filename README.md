@@ -14,10 +14,10 @@ The first player to align three of their marks in a row, column, or diagonal win
 - custom username
 
 # Technologies
- # Languages 
+ ## Languages 
  - Python
 
- # Libraries
+ ## Libraries
  - random
  - csv
  - time
