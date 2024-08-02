@@ -1,5 +1,5 @@
 # TicTacToe
-Terminal based two-player (or randomized) tic-tac-toe
+- Terminal-based tic-tac-toe game.
 
 This program aims to implement a game of tic-tac-toe in python. The user will 
 play against the computer.Turn by turn, the user and the computer get a chance
